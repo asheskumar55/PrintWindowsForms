@@ -1,0 +1,15 @@
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\bin\Debug\PrintWindowsForms.exe.config
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\bin\Debug\PrintWindowsForms.exe
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\bin\Debug\PrintWindowsForms.pdb
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\bin\Debug\EntityFramework.dll
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\bin\Debug\EntityFramework.xml
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\obj\Debug\PrintWindowsForms.Form1.resources
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\obj\Debug\PrintWindowsForms.Properties.Resources.resources
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\obj\Debug\PrintWindowsForms.csproj.GenerateResource.cache
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\obj\Debug\PrintWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\obj\Debug\PrintWindowsForms.csproj.CopyComplete
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\obj\Debug\PrintWindowsForms.exe
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\obj\Debug\PrintWindowsForms.pdb
+C:\Users\ashes\source\repos\PrintWindowsForms\PrintWindowsForms\obj\Debug\PrintWindowsForms.csprojResolveAssemblyReference.cache
